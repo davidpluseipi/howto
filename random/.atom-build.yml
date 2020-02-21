@@ -1,0 +1,1 @@
+cmd: g++ ~/projects/howto/random/random.cpp -o ~/projects/howto/random/build/random
