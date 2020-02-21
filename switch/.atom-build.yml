@@ -1,0 +1,1 @@
+cmd: g++ ~/projects/howto/switch/switch.cpp -o ~/projects/howto/switch/build/switch
