@@ -1,0 +1,1 @@
+cmd: g++ ~/projects/howto/timeanddate/leapyear/leapyear.cpp -o ~/projects/howto/timeanddate/leapyear/build/leapyear
